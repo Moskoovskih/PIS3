@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PIS2\PIS2\bin\Debug\net8.0\PIS2.exe
+C:\Users\User\source\repos\PIS2\PIS2\bin\Debug\net8.0\PIS2.deps.json
+C:\Users\User\source\repos\PIS2\PIS2\bin\Debug\net8.0\PIS2.runtimeconfig.json
+C:\Users\User\source\repos\PIS2\PIS2\bin\Debug\net8.0\PIS2.dll
+C:\Users\User\source\repos\PIS2\PIS2\bin\Debug\net8.0\PIS2.pdb
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\PIS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\PIS2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\PIS2.AssemblyInfo.cs
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\PIS2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\PIS2.dll
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\refint\PIS2.dll
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\PIS2.pdb
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\PIS2.genruntimeconfig.cache
+C:\Users\User\source\repos\PIS2\PIS2\obj\Debug\net8.0\ref\PIS2.dll
